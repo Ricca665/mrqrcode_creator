@@ -9,8 +9,8 @@ These qr codes are like them, just **long**
 
 # What are going to be the features?
 - [X] Make so that you can put custom text
-- [] Demo of it
-- [] Settings for the qr code
+- [ ] Demo of it
+- [ ] Settings for the qr code
 - [X] Linux support 
 # Is it opensource?
 Yeah
