@@ -21,9 +21,10 @@ Its under the code folder
 
 # How to use it
 Go on the releases, download the zip and extract it
-Now on windows you MUST run RUN_ME.bat, so that it downloads also the dependencies
-On windows you must download and install python, also python MUST be added to path
+Now on windows you MUST run RUN_ME.bat, so that it downloads the dependencies.
+On windows you must download and install python, and python MUST be added to path
 
 On linux you MUST run RUN_ME.sh, so that it downloads python with pip AND installs the dependencies
-In both cases it runs automatically the app.py
+
+In both cases (Windows and Linux) it automatically runs app.py (Where the actual program code is stored)
 
